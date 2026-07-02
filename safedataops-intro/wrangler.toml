@@ -1,0 +1,8 @@
+name = "safedataops-intro"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[[redirects]]
+from = ""
+to = "/index.html"
+status = 200
